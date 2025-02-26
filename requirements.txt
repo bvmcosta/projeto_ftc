@@ -1,6 +1,6 @@
 pandas==2.2.3
 folium==0.19.4
-json==2.0.9
+json5==0.9.25
 pillow==11.1.0
 streamlit==1.41.1
 streamlit_folium==0.24.0
