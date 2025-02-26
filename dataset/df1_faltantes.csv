@@ -1,0 +1,16 @@
+,index,restaurant_id,restaurant_name,country_code,city,address,locality,locality_verbose,longitude,latitude,cuisines,average_cost_for_two,currency,has_table_booking,has_online_delivery,is_delivering_now,switch_to_order_menu,price_range,aggregate_rating,rating_color,rating_text,votes
+0,1147,16983968,Carson Kitchen,216,Las Vegas,124 South 6th Street 89101,Downtown,"Downtown, Las Vegas",-115.14065,36.17146,,40,Dollar($),0,0,0,0,3,4.3,5BA829,Very Good,73
+1,1172,16980323,Spice Market Buffet,216,Las Vegas,"3667 Las Vegas Boulevard S, Las Vegas 89109",The Strip,"The Strip, Las Vegas",-115.17282,36.11077,,70,Dollar($),0,0,0,0,4,3.9,9ACD32,Good,226
+2,1225,16834710,Ink,216,Los Angeles,"8360 Melrose Ave, Los Angeles 90069","Melrose Avenue, Melrose","Melrose Avenue, Melrose, Los Angeles",-118.372374,34.083367,,70,Dollar($),0,0,0,0,4,4.3,5BA829,Very Good,147
+3,1435,17245826,Dat Dog,216,New Orleans,"5030 Freret St, New Orleans 70115",Uptown,"Uptown, New Orleans",-90.1089793,29.9349764,,25,Dollar($),0,0,0,0,2,4.6,3F7E00,Excellent,620
+4,3571,18746111,Basement Lounge & Bistro ,1,Gangtok,"Tibet Road, Arithang, Gangtok",Arithang,"Arithang, Gangtok",88.613024354,27.3283898021,,650,Indian Rupees(Rs.),0,0,0,0,2,0.0,CBCBC8,Not rated,2
+5,3584,18746688,Fusion Restaurant,1,Gangtok,"Convoy Ground, Opposite SBI, Tadong, Gangtok",Tadong,"Tadong, Gangtok",88.6023880541,27.3179575038,,0,Indian Rupees(Rs.),0,0,0,0,1,0.0,CBCBC8,Not rated,3
+6,3603,16500336,Hotel Tashi Delek,1,Gangtok,"New Market, MG Marg, Vishal Gaon, Gangtok",Vishal Gaon,"Vishal Gaon, Gangtok",88.6119451001,27.3260772247,,500,Indian Rupees(Rs.),0,0,0,0,2,3.2,CDD614,Average,7
+7,3631,18746149,Doma Restaurant & Bar,1,Gangtok,"New Market, MG Marg, Vishal Gaon, Gangtok",Vishal Gaon,"Vishal Gaon, Gangtok",88.6119427532,27.3262380701,,300,Indian Rupees(Rs.),0,0,0,0,1,0.0,CBCBC8,Not rated,1
+8,3634,16500327,Hotel Dongkhela,1,Gangtok,"Hotel Dongkhela, New Market, MG Marg, Vishal Gaon, Gangtok",Vishal Gaon,"Vishal Gaon, Gangtok",88.6118347943,27.3255264762,,800,Indian Rupees(Rs.),0,0,0,0,2,0.0,CBCBC8,Not rated,1
+9,3646,16500334,Seekhs & Kebabs ,1,Gangtok,"Lal Market Road, M.G Marg, Vishal Gaon, Gangtok",Vishal Gaon,"Vishal Gaon, Gangtok",88.6120134965,27.326965446,,0,Indian Rupees(Rs.),0,0,0,0,1,0.0,CBCBC8,Not rated,2
+10,3648,16500306,Sonny's​ Oasis Cafe,1,Gangtok,"New Market, MG Road, Vishal Gaon, Gangtok",Vishal Gaon,"Vishal Gaon, Gangtok",88.6118515581,27.3254257983,,600,Indian Rupees(Rs.),0,0,0,0,2,0.0,CBCBC8,Not rated,3
+11,3649,16500306,Sonny's​ Oasis Cafe,1,Gangtok,"New Market, MG Road, Vishal Gaon, Gangtok",Vishal Gaon,"Vishal Gaon, Gangtok",88.6118515581,27.3254257983,,600,Indian Rupees(Rs.),0,0,0,0,2,0.0,CBCBC8,Not rated,3
+12,3655,16500331,Unique Sweets & Snacks ,1,Gangtok,"M.G Marg, Vishal Gaon, Gangtok",Vishal Gaon,"Vishal Gaon, Gangtok",88.6121623591,27.3269142141,,200,Indian Rupees(Rs.),0,0,0,0,1,0.0,CBCBC8,Not rated,1
+13,5626,18704230,Himani's Restaurant & Bar,1,Shimla,"48, Above Woodland",Summer Hill,"Summer Hill, Shimla",77.1736553684,31.104435541,,800,Indian Rupees(Rs.),0,0,0,0,3,3.2,CDD614,Average,15
+14,5627,18704230,Himani's Restaurant & Bar,1,Shimla,"48, Above Woodland",Summer Hill,"Summer Hill, Shimla",77.1736553684,31.104435541,,800,Indian Rupees(Rs.),0,0,0,0,3,3.2,CDD614,Average,15
