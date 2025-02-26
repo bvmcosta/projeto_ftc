@@ -1,5 +1,3 @@
-#Caminho da pasta para mudar no terminal: cd C:/Users/Bruno/repos/matricula_2024/3_FTC/projeto_aluno
-
 #Importando as bibliotecas
 import pandas as pd
 import folium
